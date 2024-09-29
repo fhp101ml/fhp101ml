@@ -8,9 +8,9 @@ y estoy apasionado por todo el proceso de KDD (Knowledge Discovery in Databases)
 --->
 
 ## Objetivo
-Este espacio está dedicado a la puesta en común de proyectos que abarcan todo el proceso de KDD y desde la extracción y transformación de datos (ETL) hasta la aplicación de modelos predictivos, su puesta en producción y mantenimiento. Se presentan en este repositorio las tecnologías que me han permitido aplicar todo el proceso de KDD de una forma sencilla. Otros proyectos también me plantean retos, en los cuales, si os apetece, también podéis participar.
+Este espacio está dedicado a la puesta en común de proyectos que abarcan todo el proceso de KDD y desde la extracción y transformación de datos (ETL) hasta la aplicación de modelos predictivos, su puesta en producción y mantenimiento. De todos los proyectos y retos, sois libres hacer críticas, colaborar, probar, utilizar... Todos los comentarios son bienvenidos.
 
-## Proyectos Destacados
+## Proyectos
 
 ### 1. Proceso de ETL aplicando patrones de diseño
 **Descripción**: Este proyecto se centra en la aplicación de patrones de diseño para mejorar la eficiencia y mantenibilidad del proceso ETL. Se implementan diferentes estrategias para la extracción, transformación y carga de datos utilizando diversas herramientas y tecnologías.  Incluye la ejecución de pruebas de rendimiento de distintas librerías para la manipulación de grandes conjuntos de datos. Los resultados de estas pruebas se enviarán a Minio y sus resultados se servirán a través de una API. Se implementarán también ejemplos sencillos de visualización de los resultados a través de framewoks como Dashplotly o PowerBI. 
