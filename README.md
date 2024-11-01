@@ -1,7 +1,9 @@
 # ¡Hola, soy Fernando Herrera Poch!
 
 ## Sobre Mí
-Soy Ingeniero Informático actualmente trabajando como Analista de Datos. Mi Trabajo de Fin de Grado (TFG) consistió en el desarrollo de un sistema de MLOps.
+Soy Ingeniero Informático actualmente trabajando como ingeniería de IA.
+
+Mi Trabajo de Fin de Grado (TFG) consistió en el desarrollo de un sistema de MLOps.
 
 <!---
 y estoy apasionado por todo el proceso de KDD (Knowledge Discovery in Databases) para obtener información valiosa de los datos. 
