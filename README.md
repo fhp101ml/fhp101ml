@@ -1,11 +1,14 @@
 # ¡Hola, soy Fernando Herrera Poch!
 
 ## Sobre Mí
-Soy Ingeniero Informático actualmente trabajando como ingeniería de IA.
+Soy Ingeniero Informático actualmente trabajando como ingeniería de IA. Me apasiona el modo en el que los datos pueden ser útiles a la sociedad. Por eso quiero enfocar mis proyectos de Machine Learning en aplicaciones que mejoren nuestra vida y la del medio que habitamos.
 
-Mi Trabajo de Fin de Grado (TFG) consistió en el desarrollo de un sistema de MLOps.
+Actualmente estoy trabajando en la cátedra Internacional ENIA de Inteligencia Artificial y Agricultura de la Universidad de Córdoba.
+
 
 <!---
+Mi Trabajo de Fin de Grado (TFG) consistió en el desarrollo de un sistema de MLOps.
+
 y estoy apasionado por todo el proceso de KDD (Knowledge Discovery in Databases) para obtener información valiosa de los datos. 
 --->
 
