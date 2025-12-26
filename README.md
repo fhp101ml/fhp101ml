@@ -1,59 +1,34 @@
-# ¡Hola, soy Fernando Herrera Poch!
+# 👋 Hola, soy [Tu nombre]
 
-## Sobre Mí
-Soy Ingeniero Informático actualmente trabajando como ingeniería de IA. Me apasiona el modo en el que los datos pueden ser útiles a la sociedad. Por eso quiero enfocar mis proyectos de Machine Learning en aplicaciones que mejoren nuestra vida y la del medio que habitamos.
+Ingeniero especializado en **MLOps, IA generativa y sistemas basados en agentes**.
 
-Actualmente estoy trabajando en la cátedra Internacional ENIA de Inteligencia Artificial y Agricultura de la Universidad de Córdoba.
+Este perfil recoge proyectos, experimentos y notas técnicas desarrolladas
+con ayuda de **IA generativa**, como parte de un proceso continuo de
+aprendizaje, adaptación y mejora profesional.
 
+---
 
-<!---
-Mi Trabajo de Fin de Grado (TFG) consistió en el desarrollo de un sistema de MLOps.
+## 🧭 En qué estoy trabajando ahora
 
-y estoy apasionado por todo el proceso de KDD (Knowledge Discovery in Databases) para obtener información valiosa de los datos. 
---->
+- MLOps Reference Pipeline (end-to-end, production-oriented)
+- MCP-based AI Data Analysis Agent
+- RAG y sistemas multi-agente con LangGraph
+- Exploración de seguridad web y benchmarks aplicados a IA
 
-## Objetivo
-Este espacio está dedicado a la puesta en común de proyectos que abarcan todo el proceso de KDD y desde la extracción y transformación de datos (ETL) hasta la aplicación de modelos predictivos, su puesta en producción y mantenimiento. De todos los proyectos y retos, sois libres hacer críticas, colaborar, probar, utilizar... Todos los comentarios son bienvenidos.
+➡️ Roadmap completo: https://fhp101ml.github.io/projects/
 
-## Proyectos
+---
 
-### 1. Proceso de ETL aplicando patrones de diseño
-**Descripción**: Este proyecto se centra en la aplicación de patrones de diseño para mejorar la eficiencia y mantenibilidad del proceso ETL. Se implementan diferentes estrategias para la extracción, transformación y carga de datos utilizando diversas herramientas y tecnologías.  Incluye la ejecución de pruebas de rendimiento de distintas librerías para la manipulación de grandes conjuntos de datos. Los resultados de estas pruebas se enviarán a Minio y sus resultados se servirán a través de una API. Se implementarán también ejemplos sencillos de visualización de los resultados a través de framewoks como Dashplotly o PowerBI. 
+## 🧠 Enfoque
 
-**Tecnologías**: Python, Vaex, Minio S3, Pandas, SQL
+- Diseño de sistemas reproducibles
+- Arquitecturas claras y justificadas
+- Uso crítico y consciente de IA generativa
+- Aprendizaje continuo y experimentación
 
-**Repositorio**: [ETL Design Patterns]()
+---
 
-### 2.
-**Descripción**: 
+## 🔗 Enlaces
 
-**Tecnologías**: 
-
-**Repositorio**: 
-
-## Más Proyectos
-
-- **Desarrollo de un Sistema de MLOps**: 
-  **Repositorio**: [MLOps System]()
-
-
-
-## Contacto
-Si deseas contactarme, puedes hacerlo a través de [mi correo](mailto:fhp101ml@gmail.com) o seguirme en [LinkedIn](www.linkedin.com/in/fernando-herrera-poch-31010445).
-
-¡Gracias por visitar mi perfil!
-
-
-<!---
-- 👋 Hi, I’m @fhp101ml
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-fhp101ml/fhp101ml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌐 Web personal: Trabajando en ello
+- 📌 Proyectos: https://fhp101ml.github.io/projects/
