@@ -6,6 +6,18 @@ Este perfil recoge proyectos, experimentos y notas técnicas desarrolladas
 con ayuda de **IA generativa**, como parte de un proceso continuo de
 aprendizaje, adaptación y mejora profesional.
 
+Muchos de los proyectos surgen de desarrollo anteriores que quiero potenciar con la
+ayuda de la IA generativa. Explorar el alcance y como puede afectar en el desarrollo
+es una de mis actuales inquietudes. Que nos ayude a desarrollar creo que es algo que nadie duda y 
+es un hecho que los desarrolladores usamos IA en nuestro trabajo. Construir soluciones complejas, 
+escalables y fácilmente mantenibles es la cuestión que quiero resolver. Esclarecer si es un método de 
+aprendizaje es otro de mis objetivos. 
+
+Si quieres acompañarme y colaborar en este aprendizaje, no dudes en contactar conmigo y compartir
+tus experiencias.
+
+
+
 ---
 
 ## 🧭 En qué estoy trabajando ahora
@@ -32,4 +44,4 @@ aprendizaje, adaptación y mejora profesional.
 ## 🔗 Enlaces
 
 - 🌐 Web personal: Trabajando en ello
-- 📌 Proyectos: https://fhp101ml.github.io/projects/
+- 📌 Proyectos: https://fhp101ml.github.io/
