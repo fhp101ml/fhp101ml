@@ -43,5 +43,5 @@ tus experiencias.
 
 ## 🔗 Enlaces
 
-- 🌐 Web personal: Trabajando en ello
-- 📌 Proyectos: https://fhp101ml.github.io/
+- 🌐 Web personal: https://fhp101ml.github.io/
+
