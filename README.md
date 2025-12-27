@@ -28,7 +28,7 @@ tus experiencias.
 - Exploración de seguridad web y benchmarks aplicados a IA
   y mucho más.....
 
-➡️ Roadmap completo: https://fhp101ml.github.io/projects/
+➡️ Roadmap completo: https://fhp101ml.github.io/
 
 ---
 
